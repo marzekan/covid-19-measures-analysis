@@ -8,6 +8,8 @@ That said, dataset created is free for you to use.
 
 ---
 
+ Dataset can be found in [data folder](https://github.com/marzekan/covid-19-measures-analysis/tree/master/data)
+
 ## Project goal
 
 Goal of this project was to create a dataset containing facts about countries and preventive measures taken by those countries during COVID-19 pandemic, so far. For these purposes, I combined data from multiple sources to create a simple data warehouse that stores data on new measures implemented for each day in the period from 01-01-2020 to 02-06-2020, for every country. With this I hope to provide a single dataset for analysing the effectiveness of preventive measures worldwide.
