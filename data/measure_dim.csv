@@ -1,0 +1,36 @@
+measure_id,measure,measure_category
+0,Economic measures,Governance and socio-economic measures
+1,Emergency administrative structures activated or established,Governance and socio-economic measures
+2,Limit product imports/exports,Governance and socio-economic measures
+3,Military deployment,Governance and socio-economic measures
+4,State of emergency declared,Governance and socio-economic measures
+5,Humanitarian exemptions,Humanitarian exemption
+6,Full lockdown,Lockdown
+7,Lockdown of refugee/idp camps or other minorities,Lockdown
+8,Partial lockdown,Lockdown
+9,Additional health/documents requirements upon arrival,Movement restrictions
+10,Border checks ,Movement restrictions
+11,Border closure ,Movement restrictions
+12,Checkpoints within the country,Movement restrictions
+13,Complete border closure,Movement restrictions
+14,Curfews,Movement restrictions
+15,Domestic travel restrictions,Movement restrictions
+16,International flights suspension,Movement restrictions
+17,Surveillance and monitoring,Movement restrictions
+18,Visa restrictions,Movement restrictions
+19,Amendments to funeral and burial regulations,Public health measures
+20,Awareness campaigns,Public health measures
+21,General recommendations,Public health measures
+22,Health screenings in airports and border crossings,Public health measures
+23,Introduction of isolation and quarantine policies,Public health measures
+24,Mass population testing,Public health measures
+25,Obligatory medical tests not related to covid-19,Public health measures
+26,Other public health measures enforced,Public health measures
+27,Psychological assistance and medical social work,Public health measures
+28,Requirement to wear protective gear in public,Public health measures
+29,Strengthening the public health system,Public health measures
+30,Testing policy,Public health measures
+31,Changes in prison-related policies,Social distancing
+32,Limit public gatherings,Social distancing
+33,Public services closure ,Social distancing
+34,Schools closure ,Social distancing

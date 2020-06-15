@@ -1,0 +1,172 @@
+country_id,country_name,country_code,income_group_2020,continent,pop_data_2018,gro_id,region
+0,Afghanistan,AFG,Low income (L),Asia,37172386.0,AF,Asia
+1,Angola,AGO,Lower middle income (LM),Africa,30809762.0,AO,Africa
+2,Albania,ALB,Upper middle income (UM),Europe,2866376.0,AL,Europe
+3,United Arab Emirates,ARE,High income (H),Asia,9630959.0,AE,Middle East
+4,Argentina,ARG,Upper middle income (UM),America,44494502.0,AR,Americas
+5,Armenia,ARM,Upper middle income (UM),Europe,2951776.0,AM,Asia
+6,Antigua and Barbuda,ATG,High income (H),America,96286.0,AG,Americas
+7,Australia,AUS,High income (H),Oceania,24992369.0,AU,Pacific
+8,Austria,AUT,High income (H),Europe,8847037.0,AT,Europe
+9,Azerbaijan,AZE,Upper middle income (UM),Europe,9942334.0,AZ,Asia
+10,Burundi,BDI,Low income (L),Africa,11175378.0,BI,Africa
+11,Belgium,BEL,High income (H),Europe,11422068.0,BE,Europe
+12,Benin,BEN,Low income (L),Africa,11485048.0,BJ,Africa
+13,Burkina Faso,BFA,Low income (L),Africa,19751535.0,BF,Africa
+14,Bangladesh,BGD,Lower middle income (LM),Asia,161356039.0,BD,Asia
+15,Bulgaria,BGR,Upper middle income (UM),Europe,7024216.0,BG,Europe
+16,Bahrain,BHR,High income (H),Asia,1569439.0,BH,Middle East
+17,Bahamas,BHS,High income (H),America,385640.0,BS,Americas
+18,Bosnia and Herzegovina,BIH,Upper middle income (UM),Europe,3323929.0,BA,Europe
+19,Belarus,BLR,Upper middle income (UM),Europe,9485386.0,BY,Europe
+20,Belize,BLZ,Upper middle income (UM),America,383071.0,BZ,Americas
+21,Bolivia,BOL,Lower middle income (LM),America,11353142.0,BO,Americas
+22,Brazil,BRA,Upper middle income (UM),America,209469333.0,BR,Americas
+23,Barbados,BRB,High income (H),America,286641.0,BB,Americas
+24,Brunei Darussalam,BRN,High income (H),Asia,428962.0,BN,Asia
+25,Bhutan,BTN,Lower middle income (LM),Asia,754394.0,BT,Asia
+26,Botswana,BWA,Upper middle income (UM),Africa,2254126.0,BW,Africa
+27,Central African Republic,CAF,Low income (L),Africa,4666377.0,CF,Africa
+28,Canada,CAN,High income (H),America,37058856.0,CA,Americas
+29,Switzerland,CHE,High income (H),Europe,8516543.0,CH,Europe
+30,Chile,CHL,High income (H),America,18729160.0,CL,Americas
+31,China,CHN,Upper middle income (UM),Asia,1392730000.0,CN,Asia
+32,Cote dIvoire,CIV,Lower middle income (LM),Africa,25069229.0,CI,Africa
+33,Cameroon,CMR,Lower middle income (LM),Africa,25216237.0,CM,Africa
+34,Democratic Republic of the Congo,COD,Low income (L),Africa,84068091.0,CD,Africa
+35,Congo,COG,Lower middle income (LM),Africa,5244363.0,CG,Africa
+36,Colombia,COL,Upper middle income (UM),America,49648685.0,CO,Americas
+37,Cape Verde,CPV,Lower middle income (LM),Africa,543767.0,CV,Africa
+38,Costa Rica,CRI,Upper middle income (UM),America,4999441.0,CR,Americas
+39,Cuba,CUB,Upper middle income (UM),America,11338138.0,CU,Americas
+40,Cyprus,CYP,High income (H),Europe,1189265.0,CY,Europe
+41,Czechia,CZE,High income (H),Europe,10625695.0,CZ,Europe
+42,Germany,DEU,High income (H),Europe,82927922.0,DE,Europe
+43,Djibouti,DJI,Lower middle income (LM),Africa,958920.0,DJ,Africa
+44,Dominica,DMA,Upper middle income (UM),America,71625.0,DM,Americas
+45,Denmark,DNK,High income (H),Europe,5797446.0,DK,Europe
+46,Dominican Republic,DOM,Upper middle income (UM),America,10627165.0,DO,Americas
+47,Algeria,DZA,Upper middle income (UM),Africa,42228429.0,DZ,Africa
+48,Ecuador,ECU,Upper middle income (UM),America,17084357.0,EC,Americas
+49,Egypt,EGY,Lower middle income (LM),Africa,98423595.0,EG,Africa
+50,Spain,ESP,High income (H),Europe,46723749.0,ES,Europe
+51,Estonia,EST,High income (H),Europe,1320884.0,EE,Europe
+52,Ethiopia,ETH,Low income (L),Africa,109224559.0,ET,Africa
+53,Finland,FIN,High income (H),Europe,5518050.0,FI,Europe
+54,Fiji,FJI,Upper middle income (UM),Oceania,883483.0,FJ,Pacific
+55,France,FRA,High income (H),Europe,66987244.0,FR,Europe
+56,Gabon,GAB,Upper middle income (UM),Africa,2119275.0,GA,Africa
+57,United Kingdom,GBR,High income (H),Europe,66488991.0,UK,Europe
+58,Georgia,GEO,Upper middle income (UM),Europe,3731000.0,GE,Europe
+59,Ghana,GHA,Lower middle income (LM),Africa,29767108.0,GH,Africa
+60,Guinea,GIN,Low income (L),Africa,12414318.0,GN,Africa
+61,Gambia,GMB,Low income (L),Africa,2280102.0,GM,Africa
+62,Guinea Bissau,GNB,Low income (L),Africa,1874309.0,GW,Africa
+63,Equatorial Guinea,GNQ,Upper middle income (UM),Africa,1308974.0,GQ,Africa
+64,Greece,GRC,High income (H),Europe,10727668.0,EL,Europe
+65,Grenada,GRD,Upper middle income (UM),America,111454.0,GD,Americas
+66,Guatemala,GTM,Upper middle income (UM),America,17247807.0,GT,Americas
+67,Guyana,GUY,Upper middle income (UM),America,779004.0,GY,Americas
+68,Honduras,HND,Lower middle income (LM),America,9587522.0,HN,Americas
+69,Croatia,HRV,High income (H),Europe,4089400.0,HR,Europe
+70,Haiti,HTI,Low income (L),America,11123176.0,HT,Americas
+71,Hungary,HUN,High income (H),Europe,9768785.0,HU,Europe
+72,Indonesia,IDN,Lower middle income (LM),Asia,267663435.0,ID,Asia
+73,India,IND,Lower middle income (LM),Asia,1352617328.0,IN,Asia
+74,Ireland,IRL,High income (H),Europe,4853506.0,IE,Europe
+75,Iran,IRN,Upper middle income (UM),Asia,81800269.0,IR,Middle East
+76,Iraq,IRQ,Upper middle income (UM),Asia,38433600.0,IQ,Middle East
+77,Iceland,ISL,High income (H),Europe,353574.0,IS,Europe
+78,Israel,ISR,High income (H),Asia,8883800.0,IL,Middle East
+79,Italy,ITA,High income (H),Europe,60431283.0,IT,Europe
+80,Jamaica,JAM,Upper middle income (UM),America,2934855.0,JM,Americas
+81,Jordan,JOR,Upper middle income (UM),Asia,9956011.0,JO,Middle East
+82,Japan,JPN,High income (H),Asia,126529100.0,JP,Asia
+83,Kazakhstan,KAZ,Upper middle income (UM),Asia,18276499.0,KZ,Asia
+84,Kenya,KEN,Lower middle income (LM),Africa,51393010.0,KE,Africa
+85,Cambodia,KHM,Lower middle income (LM),Asia,16249798.0,KH,Asia
+86,South Korea,KOR,High income (H),Asia,51635256.0,KR,Asia
+87,Kuwait,KWT,High income (H),Asia,4137309.0,KW,Middle East
+88,Laos,LAO,Lower middle income (LM),Asia,7061507.0,LA,Asia
+89,Lebanon,LBN,Upper middle income (UM),Asia,6848925.0,LB,Middle East
+90,Liberia,LBR,Low income (L),Africa,4818977.0,LR,Africa
+91,Libya,LBY,Upper middle income (UM),Africa,6678567.0,LY,Africa
+92,Saint Lucia,LCA,Upper middle income (UM),America,181889.0,LC,Americas
+93,Liechtenstein,LIE,High income (H),Europe,37910.0,LI,Europe
+94,Sri Lanka,LKA,Upper middle income (UM),Asia,21670000.0,LK,Asia
+95,Lithuania,LTU,High income (H),Europe,2789533.0,LT,Europe
+96,Luxembourg,LUX,High income (H),Europe,607728.0,LU,Europe
+97,Latvia,LVA,High income (H),Europe,1926542.0,LV,Europe
+98,Morocco,MAR,Lower middle income (LM),Africa,36029138.0,MA,Africa
+99,Moldova,MDA,Lower middle income (LM),Europe,3545883.0,MD,Europe
+100,Madagascar,MDG,Low income (L),Africa,26262368.0,MG,Africa
+101,Maldives,MDV,Upper middle income (UM),Asia,515696.0,MV,Asia
+102,Mexico,MEX,Upper middle income (UM),America,126190788.0,MX,Americas
+103,North Macedonia,MKD,Upper middle income (UM),Europe,2082958.0,MK,Europe
+104,Mali,MLI,Low income (L),Africa,19077690.0,ML,Africa
+105,Malta,MLT,High income (H),Europe,483530.0,MT,Europe
+106,Myanmar,MMR,Lower middle income (LM),Asia,53708395.0,MM,Asia
+107,Montenegro,MNE,Upper middle income (UM),Europe,622345.0,ME,Europe
+108,Mongolia,MNG,Lower middle income (LM),Asia,3170208.0,MN,Asia
+109,Mozambique,MOZ,Low income (L),Africa,29495962.0,MZ,Africa
+110,Mauritania,MRT,Lower middle income (LM),Africa,4403319.0,MR,Africa
+111,Mauritius,MUS,Upper middle income (UM),Africa,1265303.0,MU,Africa
+112,Malawi,MWI,Low income (L),Africa,18143315.0,MW,Africa
+113,Malaysia,MYS,Upper middle income (UM),Asia,31528585.0,MY,Asia
+114,Niger,NER,Low income (L),Africa,22442948.0,NE,Africa
+115,Nigeria,NGA,Lower middle income (LM),Africa,195874740.0,NG,Africa
+116,Nicaragua,NIC,Lower middle income (LM),America,6465513.0,NI,Americas
+117,Netherlands,NLD,High income (H),Europe,17231017.0,NL,Europe
+118,Norway,NOR,High income (H),Europe,5314336.0,NO,Europe
+119,Nepal,NPL,Low income (L),Asia,28087871.0,NP,Asia
+120,New Zealand,NZL,High income (H),Oceania,4885500.0,NZ,Pacific
+121,Oman,OMN,High income (H),Asia,4829483.0,OM,Middle East
+122,Pakistan,PAK,Lower middle income (LM),Asia,212215030.0,PK,Asia
+123,Panama,PAN,High income (H),America,4176873.0,PA,Americas
+124,Peru,PER,Upper middle income (UM),America,31989256.0,PE,Americas
+125,Philippines,PHL,Lower middle income (LM),Asia,106651922.0,PH,Asia
+126,Papua New Guinea,PNG,Lower middle income (LM),Oceania,8606316.0,PG,Pacific
+127,Poland,POL,High income (H),Europe,37978548.0,PL,Europe
+128,Portugal,PRT,High income (H),Europe,10281762.0,PT,Europe
+129,Paraguay,PRY,Upper middle income (UM),America,6956071.0,PY,Americas
+130,Palestine,PSE,Lower middle income (LM),Asia,4569087.0,PS,Middle East
+131,Qatar,QAT,High income (H),Asia,2781677.0,QA,Middle East
+132,Romania,ROU,Upper middle income (UM),Europe,19473936.0,RO,Europe
+133,Russia,RUS,Upper middle income (UM),Europe,144478050.0,RU,Europe
+134,Rwanda,RWA,Low income (L),Africa,12301939.0,RW,Africa
+135,Saudi Arabia,SAU,High income (H),Asia,33699947.0,SA,Middle East
+136,Sudan,SDN,Lower middle income (LM),Africa,41801533.0,SD,Africa
+137,Senegal,SEN,Lower middle income (LM),Africa,15854360.0,SN,Africa
+138,Singapore,SGP,High income (H),Asia,5638676.0,SG,Asia
+139,Sierra Leone,SLE,Low income (L),Africa,7650154.0,SL,Africa
+140,El Salvador,SLV,Lower middle income (LM),America,6420744.0,SV,Americas
+141,San Marino,SMR,High income (H),Europe,33785.0,SM,Europe
+142,Somalia,SOM,Low income (L),Africa,15008154.0,SO,Africa
+143,Serbia,SRB,Upper middle income (UM),Europe,6982084.0,RS,Europe
+144,South Sudan,SSD,Low income (L),Africa,10975920.0,SS,Africa
+145,Suriname,SUR,Upper middle income (UM),America,575991.0,SR,Americas
+146,Slovakia,SVK,High income (H),Europe,5447011.0,SK,Europe
+147,Slovenia,SVN,High income (H),Europe,2067372.0,SI,Europe
+148,Sweden,SWE,High income (H),Europe,10183175.0,SE,Europe
+149,Eswatini,SWZ,Lower middle income (LM),Africa,1367000.0,SZ,Africa
+150,Seychelles,SYC,High income (H),Africa,96762.0,SC,Africa
+151,Syria,SYR,Low income (L),Asia,16906283.0,SY,Middle East
+152,Chad,TCD,Low income (L),Africa,15477751.0,TD,Africa
+153,Togo,TGO,Low income (L),Africa,7889094.0,TG,Africa
+154,Thailand,THA,Upper middle income (UM),Asia,69428524.0,TH,Asia
+155,Timor Leste,TLS,Lower middle income (LM),Asia,1267972.0,TL,Asia
+156,Trinidad and Tobago,TTO,High income (H),America,1389858.0,TT,Americas
+157,Tunisia,TUN,Lower middle income (LM),Africa,11565204.0,TN,Africa
+158,Turkey,TUR,Upper middle income (UM),Asia,82319724.0,TR,Middle East
+159,United Republic of Tanzania,TZA,Low income (L),Africa,56318348.0,TZ,Africa
+160,Uganda,UGA,Low income (L),Africa,42723139.0,UG,Africa
+161,Ukraine,UKR,Lower middle income (LM),Europe,44622516.0,UA,Europe
+162,Uruguay,URY,High income (H),America,3449299.0,UY,Americas
+163,United States of America,USA,High income (H),America,327167434.0,US,Americas
+164,Saint Vincent and the Grenadines,VCT,Upper middle income (UM),America,110210.0,VC,Americas
+165,Venezuela,VEN,Upper middle income (UM),America,28870195.0,VE,Americas
+166,Vietnam,VNM,Lower middle income (LM),Asia,95540395.0,VN,Asia
+167,Yemen,YEM,Low income (L),Asia,28498687.0,YE,Middle East
+168,South Africa,ZAF,Upper middle income (UM),Africa,57779622.0,ZA,Africa
+169,Zambia,ZMB,Lower middle income (LM),Africa,17351822.0,ZM,Africa
+170,Zimbabwe,ZWE,Lower middle income (LM),Africa,14439018.0,ZW,Africa

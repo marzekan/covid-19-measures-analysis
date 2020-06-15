@@ -34,13 +34,13 @@ Image below shows ETL process. The transforming part was done with Python Pandas
 
 ## Data model
 
-Data is modeled in the form of _star schema_ consisting of 4 dimension tables and 1 fact table. Dimension tables contain: country, date and measures data. There is also one junk dimension (_additional_dim_) that consists of additional data for each day that can be make use of in the future.
+Data is modeled in the form of _star schema_ consisting of 4 dimension tables and 1 fact table. Dimension tables contain: country, date and measures data. There is also one junk dimension (_additional_dim_) that contains additional data for each day. (Can be used in the future to get more insights)
 
 ![datamodel](https://github.com/marzekan/covid-19-measures-analysis/blob/master/images/DW_ER_model.png)
 
 ## Data descriptions
 
-### Country dimension (country_dim)
+### Country dimension (_country_dim_)
 
 | Column name | Description |
 |-------------|-------------|
@@ -53,18 +53,18 @@ Data is modeled in the form of _star schema_ consisting of 4 dimension tables an
 |_income_group_2020_| Income group of the country, as categorised by *_The World Bank_* (for the year 2020.).
 
 
-### Measure dimension (measures_dim)
+### Measure dimension (_measures_dim_)
 
 | Column name | Description |
 |-------------|-------------|
 |_measure_| Name of the measure. Categorical value, there is 34 of them.
 |_measure_category_| Each measure is categorised in one of six categories.
 
-### Fact table (measures_by_day_fact)
+### Fact table (*measures_by_day_fact*)
 
 | Column name | Description |
 |-------------|-------------|
-|__additional_id_| Reference to _additional_dim_ table.
+|*additional_id*| Reference to _additional_dim_ table.
 |_date_id_| Reference to *date_dim* table.
 |_measure_id_| Reference to *measure_dim* table.
 |_country_id_| Reference to *country_dim* table.
