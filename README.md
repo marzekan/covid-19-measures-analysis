@@ -28,13 +28,13 @@ Data for this project was combined from 4 sources:
 
 ## ETL
 
-Image below shows ETL process. The transforming part was done with Python Pandas, code can be found in [ETL.ipynb](https://github.com/marzekan/covid-19-measures-analysis/blob/master/ETL.ipynb) document in this repo. Main part of ETL was to clean the data and to split in into meaningfull tables.
+Image below shows ETL process. The transforming part was done with Python Pandas, code can be found in [ETL.ipynb](https://github.com/marzekan/covid-19-measures-analysis/blob/master/ETL.ipynb) document in this repo. Main part of ETL was to clean the data and to split it into meaningful tables.
 
 ![etlmodel](https://github.com/marzekan/covid-19-measures-analysis/blob/master/images/architecture.png)
 
 ## Data model
 
-Data is modeled in the form of _star schema_ consisting of 4 dimension tables and 1 fact table. Dimension tables contain: country, date and measures data. There is also one junk dimension that consists of additional data for each day that can be make use of in the future.
+Data is modeled in the form of _star schema_ consisting of 4 dimension tables and 1 fact table. Dimension tables contain: country, date and measures data. There is also one junk dimension (_additional_dim_) that consists of additional data for each day that can be make use of in the future.
 
 ![datamodel](https://github.com/marzekan/covid-19-measures-analysis/blob/master/images/DW_ER_model.png)
 
