@@ -1,4 +1,4 @@
-country_id,country_name,country_code,income_group_2020,continent,pop_data_2018,gro_id,region
+country_id,country_name,country_code,income_group_2020,continent,pop_data_2018,geo_id,region
 0,Afghanistan,AFG,Low income (L),Asia,37172386.0,AF,Asia
 1,Angola,AGO,Lower middle income (LM),Africa,30809762.0,AO,Africa
 2,Albania,ALB,Upper middle income (UM),Europe,2866376.0,AL,Europe
